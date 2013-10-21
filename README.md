@@ -1,4 +1,8 @@
-jquery.tabs.js
-==============
+# jquery.tabs.js
 
-jquery.tabs.js - Tabs
+Tabs
+
+
+## License
+
+The scripts are dedicated to the public domain. Use it as you please with no restrictions whatsoever.
