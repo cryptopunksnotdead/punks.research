@@ -1,6 +1,11 @@
 # jquery.tabs.js
 
-In-Page Tabs
+In-Page Tabs / Tabbed Panels
+
+## Demos
+
+* Demo 1 -> [demo/demo1.html](http://libsjs.github.io/jquery.tabs.js/demo/demo1.html)
+* Demo 2 -> [demo/demo2.html](http://libsjs.github.io/jquery.tabs.js/demo/demo2.html)
 
 ## How to use
 
