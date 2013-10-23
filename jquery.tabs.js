@@ -7,7 +7,7 @@ var tabs_new = function( tabs_id, opts ) {
 
     function _debug( msg )
     {
-       if( window.console ) 
+       if( window.console && window.console.log ) 
          console.log( "[debug] " + msg ); 
     }
     
@@ -114,3 +114,42 @@ function tabify( tabs_id, opts ) {
   var tabs = tabs_new( tabs_id, opts );
   return tabs;
 }
+
+
+////////////////////
+// wrapper for jquery plugin
+
+
+(function( $ ) {
+
+    function debug( msg ) {
+      if( window.console && window.console.log ) {
+        window.console.log( "[debug] "+msg );
+      }
+    }
+
+    function setup_tabs( tabs_el, opts ) {
+      debug( "hello from setup_tabs" );
+      var tabs = tabs_new( tabs_el, opts );
+      var $tabs = $(tabs_el);
+      
+      // NB: attach widget to dom element
+      // - use like $('#tabs').data( 'widget' ).select(2); etc.
+      $tabs.data( 'widget', tabs );
+      return tabs_el;
+    }
+
+    debug( 'add jquery fn tabify' );
+
+    $.fn.tabify = function( opts ) {
+        debug( "calling tabify" );
+        return this.each( function( index, tabs_el ) {
+          debug( "before setup_tabs["+ index +"]" );
+          setup_tabs( tabs_el, opts );
+          debug( "after setup_tabs["+ index +"]" );
+        });
+    };
+
+}( jQuery ));
+
+
