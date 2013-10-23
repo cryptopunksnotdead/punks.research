@@ -7,20 +7,18 @@
 <!-- add some extra styling -->
 <style>
 
-/*
- *  use !important to override if possible; check
- *
-  .tabs-nav li {
+body {
   background-color: #f4f4f4;
 }
 
-.tabs-nav li.tabs-selected {
-  background-color: white;
+#tabs-ii .tabs-nav li.selected,
+#tabs-ii .tabs-panel {
+  background-color: yellow;  
 }
-*/
 
-.tabs-panel {
-  background-color: yellow;
+#tabs-iii .tabs-nav li.selected,
+#tabs-iii .tabs-panel {
+  background-color: red;
 }
 
 </style>
@@ -31,7 +29,9 @@
 
 <script>
   $(document).ready( function() {
-    tabify( '#tabs', { background: 'red', backgroundSelected: 'yellow' } );
+    tabify( '#tabs' );
+    tabify( '#tabs-ii' ).select( 1 );
+    tabify( '#tabs-iii' ).select( 2 );
   });
 </script>
 
@@ -70,6 +70,75 @@ Newer and faster JavaScript VMs and frameworks built upon them (notably Node.js)
 have also increased the popularity of JavaScript for server-side web applications.
 </div>
 </div>
+
+
+<div id='tabs-ii'>
+<ul>
+  <li>Tab 1</li>
+  <li>Tab 2</li>
+  <li>Tab 3</li>
+</ul>
+
+<div>
+JavaScript is an interpreted computer programming language.
+As part of web browsers, implementations allow client-side scripts to interact with the user,
+control the browser, communicate asynchronously, and alter the document content that is displayed.
+It has also become common in server-side programming, game development and
+the creation of desktop applications.  
+</div>
+
+<div>
+JavaScript is a prototype-based scripting language with dynamic typing and
+has first-class functions. Its syntax was influenced by C.
+JavaScript copies many names and naming conventions from Java,
+but the two languages are otherwise unrelated and have very different semantics.
+The key design principles within JavaScript are taken from the Self and Scheme programming languages.
+It is a multi-paradigm language, supporting object-oriented, imperative,
+and functional programming styles.
+</div>
+
+<div>
+The application of JavaScript to uses outside of web pages—for example,
+in PDF documents, site-specific browsers, and desktop widgets—is also significant.
+Newer and faster JavaScript VMs and frameworks built upon them (notably Node.js)
+have also increased the popularity of JavaScript for server-side web applications.
+</div>
+</div>
+
+
+<div id='tabs-iii'>
+<ul>
+  <li>Tab 1</li>
+  <li>Tab 2</li>
+  <li>Tab 3</li>
+</ul>
+
+<div>
+JavaScript is an interpreted computer programming language.
+As part of web browsers, implementations allow client-side scripts to interact with the user,
+control the browser, communicate asynchronously, and alter the document content that is displayed.
+It has also become common in server-side programming, game development and
+the creation of desktop applications.  
+</div>
+
+<div>
+JavaScript is a prototype-based scripting language with dynamic typing and
+has first-class functions. Its syntax was influenced by C.
+JavaScript copies many names and naming conventions from Java,
+but the two languages are otherwise unrelated and have very different semantics.
+The key design principles within JavaScript are taken from the Self and Scheme programming languages.
+It is a multi-paradigm language, supporting object-oriented, imperative,
+and functional programming styles.
+</div>
+
+<div>
+The application of JavaScript to uses outside of web pages—for example,
+in PDF documents, site-specific browsers, and desktop widgets—is also significant.
+Newer and faster JavaScript VMs and frameworks built upon them (notably Node.js)
+have also increased the popularity of JavaScript for server-side web applications.
+</div>
+</div>
+
 
   </body>
 </html>
