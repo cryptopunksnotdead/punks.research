@@ -1,0 +1,24 @@
+{
+  "name": "tabs",
+  "version": "0.1.0",
+  "title": "jquery.tabs.js",
+  "description": "In-Place Tabs / Tabbed Panels",
+  "keywords": [
+    "tabs",
+    "tabbed"
+  ],
+  "author": {
+    "name": "Gerald Bauer",
+    "url": "https://github.com/geraldb"
+  },
+  "licenses": [
+    {
+      "type": "Public Domain",
+      "url": "http://en.wikipedia.org/wiki/Public_domain"
+    }
+  ],
+  "dependencies": {
+    "jquery": ">=2.0"
+  },
+  "homepage": "https://github.com/libsjs/jquery.tabs.js"
+}
