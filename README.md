@@ -6,7 +6,7 @@ Version 2021
 
 ![](spritesheet.png)
 
-[**Free Download**](https://github.com/cryptopunksnotdead/punks.spritesheet/raw/master/spritesheet.png) (~15k)
+[**Free Image Download - spritesheet.png**](https://github.com/cryptopunksnotdead/punks.spritesheet/raw/master/spritesheet.png) (~15k)
 
 
 
