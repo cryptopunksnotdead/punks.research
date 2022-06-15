@@ -53,12 +53,12 @@ Normal Beard Black, Shadow Beard (Darker²)
 
 **Mouth Prop** (4) - Cigarette,  Pipe, Vape, Medical Mask
 
-**Mouth** (6) - Frown, Smile, Buck Teeth
+**Mouth** (6) - _Emotion / Mouth Expression_ - Frown, Smile, Buck Teeth
 ; _Make-up (Lips)_ - Hot (Red) Lipstick, Purple Lipstick, Black Lipstick
 
 **Blemishes** (3) - Mole, Rosy Cheeks, Spots
 
-**Ears** (1) - (Golden) Earring
+**Ears** (1) - _Earwear_ - (Golden) Earring
 
 **Nose** (1) - (Red) Clown Nose
 
