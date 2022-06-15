@@ -16,7 +16,7 @@ Well, the best search result in kind-of a circular proof ends-up right back here
 
 Anyways, yes, you can! Help out to find out more about the hair colors of punks. Let's study and learn about the punk "art" together.
 
-[**Discuss. Join us »**](https://old.reddit.com/r/DIYPunkArt/comments/vc4n7w/why_matt_johns_punks_v1_v2_are_a_gigantic_conart/)
+[**Discuss »**](https://old.reddit.com/r/DIYPunkArt/comments/vc4n7w/why_matt_johns_punks_v1_v2_are_a_gigantic_conart/)
 
 
 ## Inside The Hair Colors of Punk Pixel Characters / Heads - Are Blonde Punkettes Having More Fun?
