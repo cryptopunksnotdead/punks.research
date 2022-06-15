@@ -1,4 +1,4 @@
-# Universal (Common / Shared) Attribute Categories for Punk (Pixel) Characters / Head
+# Universal (Common / Shared) Attribute Categories for Punk (Pixel) Characters / Heads
 
 
 ## Intro
