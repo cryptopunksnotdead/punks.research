@@ -35,10 +35,10 @@ Top Hat,
 ; _Clothes_ - Hoodie
 
 
-**Eyes** (16) - 3D Glasses, Big Shades, Classic Shades, Eye Mask,
+**Eyes** (16) -  _Eyewear_ -3D Glasses, Big Shades, Classic Shades, Eye Mask,
 Eye Patch, Horned Rim Glasses, Nerd Glasses, Regular Shades,
 Small Shades, VR, Welding Googles
-; _Make-up (Eyes)_  Blue Eye Shadow, Green Eye Shadow, Purple Eye Shadow,
+; _Make-up (Eyes)_ -  Blue Eye Shadow, Green Eye Shadow, Purple Eye Shadow,
 Clown Eyes Blue, Clown Eyes Green
 
 
