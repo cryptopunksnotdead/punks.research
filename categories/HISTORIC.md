@@ -7,17 +7,15 @@
 Rarity Tools, see <https://rarity.tools/cryptopunks>
 and others.
 
-General
+General 
 
 - Type:   Male, Female, Zombie, Ape, Alien
 - Skin Tone:  Male/Female - (1) Dark, (2) Mid, (3) Light, (4) Albino;
               Zombie, Ape, Alien
 
-Attributes
+Attributes (in 9 Categories)
 
-- 9 Categories:  Hair (41), Eyes (16), Facial Hair (12), Neck Accessory (3), Mouth Prop (4), Mouth (6), Blemishes (3), Ears (1), Nose (1)
-
-
+Hair (41), Eyes (16), Facial Hair (12), Neck Accessory (3), Mouth Prop (4), Mouth (6), Blemishes (3), Ears (1), Nose (1)
 
 **Hair** (41) -
 Blonde Bob, Blonde Short,  Clown Hair Green,
