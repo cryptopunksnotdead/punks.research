@@ -42,7 +42,7 @@ Small Shades, VR, Welding Googles
 Clown Eyes Blue, Clown Eyes Green
 
 
-**Facial Hair** (12) - Big Beard (Brown), Chinstrap (Brown),
+**Beard / Facial Hair** (12) - Big Beard (Brown), Chinstrap (Brown),
 Front Beard (Brown), Front Beard Dark (Brown), Goat (Brown),
 Handlebars (Brown),
 Luxurious Beard (Black), Mustache (Darker²),
