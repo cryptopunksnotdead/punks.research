@@ -9,9 +9,10 @@ and others.
 
 General 
 
-- Type:   Male, Female, Zombie, Ape, Alien
-- Skin Tone:  Male/Female - (1) Dark, (2) Mid, (3) Light, (4) Albino;
-              Zombie, Ape, Alien
+**Type** (5) -  Male, Female, Zombie, Ape, Alien
+
+**Skin Tone (4+3)** -  _Male/Female_ - (1) Dark, (2) Mid, (3) Light, (4) Albino; Zombie, Ape, Alien
+
 
 Attributes (in 9 Categories)
 
