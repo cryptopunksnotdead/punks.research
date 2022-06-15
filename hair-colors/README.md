@@ -6,7 +6,7 @@ A scam alert reminder:  The Matt & John's® Punks V1 & V2 (blockchain database) 
 
 It's all about numbers go up and for early "investors" to pump up the token to dump onto greater fool crypto bros HODLing the bag, isn't it?
 
-Let's talk about the 24x24 pixel "art" or bitmap, shall we?   The punk (token) market data and price has been analyzed and tracked to death (without actually looking into the massive fraud called "wash trading / self-dealing" on a zero-fee / anonymous self-service crypto bro market) -  anyways, here's a question to you and proof no. 1.
+Let's talk about the 24x24 pixel "art" or bitmap, shall we?   The punk (token) market data and price has been analyzed and tracked to death (without actually looking into the massive fraud called "wash trading / self-dealing" on a zero-fee & anonymous / pseudonymous self-service crypto bro market) -  anyways, here's a question to you and proof no. 1.
 
 Please, tell us all the hair colors in the punk (& punkette) pixel character heads - please list the colors (e.g. blonde, white, red, etc.)  by male / female and zombie, ape, aliens.   Anyone?
 
