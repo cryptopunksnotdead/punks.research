@@ -16,7 +16,7 @@ Let's start today (a working group - or is it my humble self on my own again)
 with an universal (common / shared ) attribute category "ontology"
 for all punk pixel characters / heads, shall we?
 
-[**Discuss. Join us »**](https://old.reddit.com/r/DIYPunkArt/comments/vcqfiw/universal_common_shared_attribute_categories_for/)
+[**Discuss »**](https://old.reddit.com/r/DIYPunkArt/comments/vcqfiw/universal_common_shared_attribute_categories_for/)
 
 
 ##   Categories   (Work-In-Progress)
