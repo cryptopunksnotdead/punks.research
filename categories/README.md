@@ -39,7 +39,7 @@ Note:  Let's split the hair category into two - hair style and hair color:
 
 
 
-For more see [**Hair Colors**](../hair-colors)
+For more see [**Hair Colors »**](../hair-colors)
 
 
 ### Eyes (+ Eye Color)  -  Blue, Brown, Green, ...
@@ -143,7 +143,7 @@ The "classic" four (human) skin tones names were:
 - (1) Dark, (2) Med(ium) / Tan(?), (3) Pale, (4) Albino
 
 
-For more see [**Skin Tones**](../skin-tones)
+For more see [**Skin Tones »**](../skin-tones)
 
 
 
