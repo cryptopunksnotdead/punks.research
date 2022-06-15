@@ -12,7 +12,7 @@ assigning categories to the accessories a.ka. attributes and than
 the category "ontology" got copied and copied and copied and really never reworked.
 
 
-Let's start today (a working group - or is it again just my humble self on my own)
+Let's start today (a working group - or is it my humble self on my own again)
 with an universal (common / shared ) attribute category "ontology"
 for all punk pixel characters / heads, shall we?
 
