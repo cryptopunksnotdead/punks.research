@@ -24,20 +24,24 @@ for all punk pixel characters / heads, shall we?
 
 ### Hair  (+ Hair Color)
 
-Examples:  Orange Side, Pigtails, Blonde Short, Wild White Hair,
-Wild Blonde, Straight Hair Blonde, Red Mohawk, Half Shaved,
-Blonde Bob, Vampire Hair, Clown Hair Green,
-Straight Hair Dark, Straight Hair,
-Dark Hair, Purple Hair, Shaved Head,
-Peak Spike, Crazy Hair, Mohawk Dark, Mohawk, Mohawk Thin,
-Frumpy Hair, Wild Hair, Messy Hair, Stringy Hair, ...
+Examples:  Blonde Bob, Blonde Short,  Clown Hair Green,
+Crazy (Red) Hair,  Dark (Black) Hair,  Frumpy (Black) Hair,
+Half Shaved (Black), Messy (Black) Hair,
+Mohawk (Brunette), Mohawk Dark (Black),
+Mohawk Thin (Silver), Orange Side,
+Peak Spike (Black), Pigtails (Black), Purple Hair, Red Mohawk, Shaved Head¹,
+Straight Hair (Brunette), Straight Hair Blonde, Straight Hair Dark (Black),
+Stringy (Black) Hair, Vampire (Black) Hair, Wild Blonde, Wild (Black) Hair,
+Wild White Hair, ...
+
+¹: Note: Darker color with alpha channel / mask.
 
 
 
 Note:  Let's split the hair category into two - hair style and hair color:
 
 - Blonde Wild  (short form) becomes  Wild Hair (style) and Blonde (color) in long form or
-- Wild Hair    (short form) becomes  Wild Hair (style) and Red (color) in long form (adding the left-out color)
+- Wild Hair    (short form) becomes  Wild Hair (style) and Black (color) in long form (adding the left-out color)
 
 
 
@@ -58,9 +62,9 @@ Nerd Glasses,
  Eye Mask, Eye Patch,  ...
 
 
-### Make-Up (+ Lipsticks, + Eyes, + ??? )
+### Make-Up (+ Lips, + Eyes, + ??? )
 
-Examples:  Lipsticks - Hot Lipstick, Purple Lipstick, Black Lipstick, ...
+Examples:  Lips - Hot Lipstick, Purple Lipstick, Black Lipstick, ...
 
 Eyes -   Purple Eye Shadow, Blue Eye Shadow, Green Eye Shadow,
 Clown Eyes Green, Clown Eyes Blue,  ...
@@ -70,18 +74,22 @@ Clown Eyes Green, Clown Eyes Blue,  ...
 
 ### Beard / Facial Hair   (+ Beard Color)
 
-Examples:  Big Beard, Front Beard Dark, Handlebars,
-Front Beard, Chinstrap, Luxurious Beard,
-Mustache, Normal Beard Black, Normal Beard, Goat,
-Muttonchops, Shadow Beard,  ...
+Examples:   Big Beard (Brown), Chinstrap (Brown),
+Front Beard (Brown), Front Beard (Dark Brown), Goat (Brown),
+Handlebars (Brown),
+Luxurious Beard (Black), Mustache (Darker¹),
+Muttonchops (Brown),
+Normal Beard (Black), Shadow Beard (Darker¹), ...
+
+¹: Note: Darker color with alpha channel / mask.
 
 
 
 
 ### Ears / Earwear
 
-Examples:  Earring,
- Golden Earring, Golden Earrings, Gold Stud Cross Combo, Large Hoop Earrings, ...
+Examples:  (Golden) Earring,
+  Golden Earrings, Gold Stud Cross Combo, Large Hoop Earrings, ...
 
 
 
@@ -92,8 +100,7 @@ Examples:  Beanie, Pilot Helmet, Tiara, Welding Googles,
 Top Hat, Cowboy Hat,
 Tassle Hat, Fedora, Police Cap,
 Cap Forward,  Do-rag,  Cap, Headband, Knitted Cap,
- Birthday Hat, Pirate Hat, Bandana, Chef, Crown, Bow, Flowers,
- Bandana,  ...
+ Birthday Hat, Pirate Hat, Bandana, Chef, Crown, Bow, Flowers,  ...
 
 
 
@@ -142,7 +149,8 @@ Note: The names are up for discussion and
 may be politically charged / controversial.
 The "classic" four (human) skin tones names were:
 
-- (1) Dark, (2) Med(ium) / Tan(?), (3) Pale, (4) Albino
+- (1) Dark, (2) Mid / Medium / Tan(?), (3) Pale / Light, (4) Albino  or
+- (1) Darker, (2) Dark, (3) Light, (4) Lighter
 
 
 For more see [**Skin Tones »**](../skin-tones)
@@ -166,7 +174,7 @@ Examples:  Human, Zombie, Ghost, Demon, Ape, Orc, Alien,  Mutant,  Cyborg, Bot, 
 
 ### Combos   (Hair+Headwear)
 
-Examples: Pink with Hat,  Black with Headband, ...
+Examples: Pink (Hair) with Hat,  Black (Hair) with Headband, ...
 
 
 
