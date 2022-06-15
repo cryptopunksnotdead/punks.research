@@ -29,10 +29,10 @@ Crazy (Red) Hair,  Dark (Black) Hair,  Frumpy (Black) Hair,
 Half Shaved (Black), Messy (Black) Hair,
 Mohawk (Brunette), Mohawk Dark (Black),
 Mohawk Thin (Silver), Orange Side,
-Peak Spike (Black), Pigtails (Black), Purple Hair, Red Mohawk, Shaved Head¹,
+Peak Spike (Black), Pigtails (Black), Purple Hair, Red Mohawk,
 Straight Hair (Brunette), Straight Hair Blonde, Straight Hair Dark (Black),
 Stringy (Black) Hair, Vampire (Black) Hair, Wild Blonde, Wild (Black) Hair,
-Wild White Hair, ...
+Wild White Hair, Shaved Head¹, ...
 
 ¹: Note: Darker color with alpha channel / mask.
 
@@ -64,7 +64,7 @@ Nerd Glasses,
 
 ### Make-Up (+ Lips, + Eyes, + ??? )
 
-Examples:  Lips - Hot Lipstick, Purple Lipstick, Black Lipstick, ...
+Examples:  Lips - Hot (Red) Lipstick, Purple Lipstick, Black Lipstick, ...
 
 Eyes -   Purple Eye Shadow, Blue Eye Shadow, Green Eye Shadow,
 Clown Eyes Green, Clown Eyes Blue,  ...
@@ -129,7 +129,7 @@ Examples:  Spots, Rosy Checks, Mole, ...
 
 ### Nose
 
-Example:  Clown Nose, ...
+Example:  (Red) Clown Nose, ...
 
 
 ### Mouth Props
@@ -140,9 +140,9 @@ Examples:   Cigarette, Cigar, Pipe, Vape, Medical Mask, Bubble Gum, Pizza,  ...
 
 ### Skin Tone (Black & White, Red & Yellow)
 
-Examples:  Human -   , ...
-  Alien - Blue, Green, , ...
-  Ape   - Black, Gray, Brown, Orange, ...
+Examples:  Human -   , ...;
+  Alien - Blue, Green, , ...;
+  Ape   - Black, Gray, Brown, Orange, ...;
   Demon -  Red, ...
 
 Note: The names are up for discussion and
@@ -159,7 +159,7 @@ For more see [**Skin Tones »**](../skin-tones)
 
 ### Gender / Sex  (Male & Female, N/A)
 
-Examples:  Human - Male, Female, ...
+Examples:  Human - Male, Female, ...;
 Bot:  N/A
 
 
