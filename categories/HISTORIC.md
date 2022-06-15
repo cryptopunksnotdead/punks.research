@@ -14,9 +14,8 @@ General
 **Skin Tone (4+3)** -  _Male/Female_ - (1) Dark, (2) Mid, (3) Light, (4) Albino; Zombie, Ape, Alien
 
 
-Attributes (in 9 Categories)
+Attributes (in 9 Categories) - Hair (41), Eyes (16), Facial Hair (12), Neck Accessory (3), Mouth Prop (4), Mouth (6), Blemishes (3), Ears (1), Nose (1)
 
-Hair (41), Eyes (16), Facial Hair (12), Neck Accessory (3), Mouth Prop (4), Mouth (6), Blemishes (3), Ears (1), Nose (1)
 
 **Hair** (41) -
 Blonde Bob, Blonde Short,  Clown Hair Green,
