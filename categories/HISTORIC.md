@@ -15,8 +15,8 @@ General
 
 Attributes
 
-- 9 Categories:  Hair (41), Eyes (16), Facial Hair (12), Neck Accessory (3), Mouth Prop (4),
-                Mouth (6), Blemishes (3), Ears (1), Nose (1)
+- 9 Categories:  Hair (41), Eyes (16), Facial Hair (12), Neck Accessory (3), Mouth Prop (4), Mouth (6), Blemishes (3), Ears (1), Nose (1)
+
 
 
 **Hair** (41) -
@@ -28,7 +28,7 @@ Mohawk Thin (Silver), Orange Side,
 Peak Spike (Black), Pigtails (Black), Purple Hair, Red Mohawk, Shaved Head,
 Straight Hair (Brunette), Straight Hair Blonde, Straight Hair Dark (Black),
 Stringy (Black) Hair, Vampire (Black) Hair, Wild Blonde, Wild (Black) Hair, Wild White Hair
-; _Combos_ -  Pink with Hat,  [¹Black with Headband]
+; _Combos_ -  Pink (Hair) with Hat,  [¹Black (Hair) with Headband]
 ; _Headwear_ -
 Bandana, Beanie, Cap, Cap Forward,
 Cowboy Hat, Do-rag, Fedora, Knitted Cap,
@@ -65,6 +65,6 @@ Normal Beard Black, Shadow Beard (Darker²)
 **Nose** (1) - (Red) Clown Nose
 
 
-¹:  Note: The Headband (f) is really a combo and incl. black hair.
+¹:  Note: The Headband (f) is really a combo and incl. black hair.  <br>
 ²:  Note: Darker color with alpha channel / mask.
 
