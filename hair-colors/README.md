@@ -79,7 +79,26 @@ Mohawk, Mohawk Dark, Mohawk Thin, Mohawk Red).
 ### (Human) Punk Hair By Color
 
 
-- **Black** - 8 male /  11 female
+- **Black**
+  ![](https://github.com/cryptopunksnotdead/punks.sandbox/raw/master/punksdata-assets/i/015-mohawk_dark.png)
+  ![](https://github.com/cryptopunksnotdead/punks.sandbox/raw/master/punksdata-assets/i/036-mohawk_thin.png)
+  ![](https://github.com/cryptopunksnotdead/punks.sandbox/raw/master/punksdata-assets/i/045-wild_hair.png)
+  ![](https://github.com/cryptopunksnotdead/punks.sandbox/raw/master/punksdata-assets/i/049-frumpy_hair.png)
+  ![](https://github.com/cryptopunksnotdead/punks.sandbox/raw/master/punksdata-assets/i/065-messy_hair.png)
+  ![](https://github.com/cryptopunksnotdead/punks.sandbox/raw/master/punksdata-assets/i/070-stringy_hair.png)
+  ![](https://github.com/cryptopunksnotdead/punks.sandbox/raw/master/punksdata-assets/i/057-vampire_hair.png)
+  ![](https://github.com/cryptopunksnotdead/punks.sandbox/raw/master/punksdata-assets/i/058-peak_spike.png),
+  ![](https://github.com/cryptopunksnotdead/punks.sandbox/raw/master/punksdata-assets/i/130-mohawk_dark.png)
+  ![](https://github.com/cryptopunksnotdead/punks.sandbox/raw/master/punksdata-assets/i/117-mohawk_thin.png)
+  ![](https://github.com/cryptopunksnotdead/punks.sandbox/raw/master/punksdata-assets/i/096-wild_hair.png)
+  ![](https://github.com/cryptopunksnotdead/punks.sandbox/raw/master/punksdata-assets/i/088-frumpy_hair.png)
+  ![](https://github.com/cryptopunksnotdead/punks.sandbox/raw/master/punksdata-assets/i/093-messy_hair.png)
+  ![](https://github.com/cryptopunksnotdead/punks.sandbox/raw/master/punksdata-assets/i/098-stringy_hair.png)
+  ![](https://github.com/cryptopunksnotdead/punks.sandbox/raw/master/punksdata-assets/i/079-straight_hair_dark.png)
+  ![](https://github.com/cryptopunksnotdead/punks.sandbox/raw/master/punksdata-assets/i/099-dark_hair.png)
+  ![](https://github.com/cryptopunksnotdead/punks.sandbox/raw/master/punksdata-assets/i/110-headband.png)
+  ![](https://github.com/cryptopunksnotdead/punks.sandbox/raw/master/punksdata-assets/i/111-pigtails.png)
+  ![](https://github.com/cryptopunksnotdead/punks.sandbox/raw/master/punksdata-assets/i/129-half_shaved.png)  - 8 male /  11 female
 (Mohawk · Mohawk Thin · Wild · Frumpy · Messy · Stringy;
  female only:
   Straight [Long]  ·
@@ -94,7 +113,7 @@ Mohawk, Mohawk Dark, Mohawk Thin, Mohawk Red).
   ![](https://github.com/cryptopunksnotdead/punks.sandbox/raw/master/punksdata-assets/i/083-wild_blonde.png)
   ![](https://github.com/cryptopunksnotdead/punks.sandbox/raw/master/punksdata-assets/i/101-blonde_short.png)
   ![](https://github.com/cryptopunksnotdead/punks.sandbox/raw/master/punksdata-assets/i/112-straight_hair_blonde.png)
-  ![](https://github.com/cryptopunksnotdead/punks.sandbox/raw/master/punksdata-assets/i/122-blonde_bob.png)  -  4 female (Wild  ·  Short  ·  Bob  ·  Straight [Long])
+  ![](https://github.com/cryptopunksnotdead/punks.sandbox/raw/master/punksdata-assets/i/122-blonde_bob.png)  -  4 female (Wild  ·  Short  ·  Straight [Long] · Bob)
 -  **White**
    ![](https://github.com/cryptopunksnotdead/punks.sandbox/raw/master/punksdata-assets/i/086-wild_white_hair.png) - 1 female  (Wild)
 -  **Brown / Brunette**
