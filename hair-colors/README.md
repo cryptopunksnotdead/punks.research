@@ -79,13 +79,35 @@ Mohawk, Mohawk Dark, Mohawk Thin, Mohawk Red).
 ### (Human) Punk Hair By Color
 
 
-Black · Blonde · White · Brown / Brunette · Dark Brown · Red · Purple · Pink · Green · Alpha (α) Mask
+- **Black** - 8 male /  11 female
+(Mohawk · Mohawk Thin · Wild · Frumpy · Messy · Stringy;
+ female only:
+  Straight [Long]  ·
+  [Bob / Page] ·
+  [Long] ·
+  Pigtails ·
+  Half Shaved;
+ male only:
+  Vampire ·
+  Peak Spike)
+-  **Blonde**  -  4 female (Wild  ·  Short  ·  Bob  ·  Straight [Long])
+-  **White**  - 1 female  (Wild)
+-  **Brown / Brunette** - 1 male / 1 female (Mohawk)
+- **Dark Brown**    - 1 female  (Straight [Long])
+-  **Red** -    1 male / 2 female (Crazy; female only: Mohawk)
+-  **Orange** -  1 female (Side)
+-  **Purple** -  1 male
+-  **Pink** -  1 female
+-  **Green** -  1 male / 1 female (Clown)
+-  **Alpha (α) Mask** -   1 male  (Shaved)
 
 
 
-**Black**  8 male /  11 female
 
-_#000000 / rgb( 0 0 0) - hsl( 0° 0% 0%)_
+
+
+
+**Black**  - _#000000 / rgb( 0 0 0) - hsl( 0° 0% 0%)_
 
 - 15 / 130  ![](https://github.com/cryptopunksnotdead/punks.sandbox/raw/master/punksdata-assets/i/015-mohawk_dark.png) ![](https://github.com/cryptopunksnotdead/punks.sandbox/raw/master/punksdata-assets/i/130-mohawk_dark.png)  Mohawk Dark (m)
 - 36 / 117  ![](https://github.com/cryptopunksnotdead/punks.sandbox/raw/master/punksdata-assets/i/036-mohawk_thin.png) ![](https://github.com/cryptopunksnotdead/punks.sandbox/raw/master/punksdata-assets/i/117-mohawk_thin.png) Mohawk Thin (m/f)   -- incl. 5 gray pixels e.g. rgb(85 85 85)
@@ -102,9 +124,7 @@ _#000000 / rgb( 0 0 0) - hsl( 0° 0% 0%)_
 - 129   ![](https://github.com/cryptopunksnotdead/punks.sandbox/raw/master/punksdata-assets/i/129-half_shaved.png)   Half Shaved (f)      --   Black
 
 
-**Blonde**   - 4 female
-
-_#fff68e / rgb(255 246 142) - hsl( 55° 100% 78%)_
+**Blonde**   - _#fff68e / rgb(255 246 142) - hsl( 55° 100% 78%)_
 
 - 83  ![](https://github.com/cryptopunksnotdead/punks.sandbox/raw/master/punksdata-assets/i/083-wild_blonde.png)  Wild Blonde (f)
 - 101  ![](https://github.com/cryptopunksnotdead/punks.sandbox/raw/master/punksdata-assets/i/101-blonde_short.png)  Blonde Short (f)
@@ -112,70 +132,78 @@ _#fff68e / rgb(255 246 142) - hsl( 55° 100% 78%)_
 - 122  ![](https://github.com/cryptopunksnotdead/punks.sandbox/raw/master/punksdata-assets/i/122-blonde_bob.png)   Blonde Bob (f)
 
 
-**White**  - 1 female
-
-_#ffffff / rgb(255 255 255) - hsl( 0° 0% 100%)_
+**White**  - _#ffffff / rgb(255 255 255) - hsl( 0° 0% 100%)_
 
 - 86  ![](https://github.com/cryptopunksnotdead/punks.sandbox/raw/master/punksdata-assets/i/086-wild_white_hair.png) Wild White Hair (f)
 
 
 
-**Brown / Brunette**   - 1 male / 1 female
-
-_#a66e2c / rgb(166 110 44) - hsl( 32° 58% 41%)_
+**Brown / Brunette**  - _#a66e2c / rgb(166 110 44) - hsl( 32° 58% 41%)_
 
 - 74 / 123  ![](https://github.com/cryptopunksnotdead/punks.sandbox/raw/master/punksdata-assets/i/074-mohawk.png) ![](https://github.com/cryptopunksnotdead/punks.sandbox/raw/master/punksdata-assets/i/123-mohawk.png)  Mohawk (m/f)   -- incl. 8 black "outline" pixels
 
 
-**Dark Brown**  - 1 female
-
-_#51360c / rgb( 81 54 12) - hsl( 37° 74% 18%)_
+**Dark Brown**  - _#51360c / rgb( 81 54 12) - hsl( 37° 74% 18%)_
 
 - 127  ![](https://github.com/cryptopunksnotdead/punks.sandbox/raw/master/punksdata-assets/i/127-straight_hair.png)  Straight Hair (f)
 
 
-**Red**  -  1 male / 2 female
-
-_#e22626 / rgb(226 38 38) - hsl( 0° 76% 52%)_
+**Red**  -  _#e22626 / rgb(226 38 38) - hsl( 0° 76% 52%)_
 
 - 50 / 81   ![](https://github.com/cryptopunksnotdead/punks.sandbox/raw/master/punksdata-assets/i/050-crazy_hair.png) ![](https://github.com/cryptopunksnotdead/punks.sandbox/raw/master/punksdata-assets/i/081-crazy_hair.png) Crazy Hair (m / f)
 -  92   ![](https://github.com/cryptopunksnotdead/punks.sandbox/raw/master/punksdata-assets/i/092-red_mohawk.png)   Red Mohawk (f)
 
-**Orange** - 1 female
-
-_#e65700 / rgb(230 87 0) - hsl( 23° 100% 45%)_
+**Orange** - _#e65700 / rgb(230 87 0) - hsl( 23° 100% 45%)_
 
 - 91  ![](https://github.com/cryptopunksnotdead/punks.sandbox/raw/master/punksdata-assets/i/091-orange_side.png)  Orange Side (f)          -- Orange
 
 
-**Purple**  - 1 male
-
-_#710cc7 / rgb(113 12 199) - hsl(272° 89% 41%)_
+**Purple**  - _#710cc7 / rgb(113 12 199) - hsl(272° 89% 41%)_
 
 - 28  ![](https://github.com/cryptopunksnotdead/punks.sandbox/raw/master/punksdata-assets/i/028-purple_hair.png)  Purple Hair (m)
 
 
-**Pink**  - 1 female
-
-_#ff8ebe / rgb(255 142 190) - hsl(335° 100% 78%)_
+**Pink**  - _#ff8ebe / rgb(255 142 190) - hsl(335° 100% 78%)_
 
 - 121   ![](https://github.com/cryptopunksnotdead/punks.sandbox/raw/master/punksdata-assets/i/121-pink_with_hat.png)  Pink With Hat (f)
 
 
-**Green**  - 1 male / 1 female
-
-_#28b143 / rgb( 40 177 67) - hsl(132° 63% 43%)_
+**Green**   - _#28b143 / rgb( 40 177 67) - hsl(132° 63% 43%)_
 
 - 14 / 104    ![](https://github.com/cryptopunksnotdead/punks.sandbox/raw/master/punksdata-assets/i/014-clown_hair_green.png) ![](https://github.com/cryptopunksnotdead/punks.sandbox/raw/master/punksdata-assets/i/104-clown_hair_green.png)  Clown Hair Green (m/f)
 
 
 
-**Alpha (α) Mask**  - 1 male
-
-_#000000 / rgb( 0 0 0) - hsl( 0° 0% 0%) - α(56%)_
+**Alpha (α) Mask**  - _#000000 / rgb( 0 0 0) - hsl( 0° 0% 0%) - α(56%)_
 
 - 30  ![](https://github.com/cryptopunksnotdead/punks.sandbox/raw/master/punksdata-assets/i/030-shaved_head.png)  Shaved Head (m)
 
+
+
+
+
+Let's find hair styles with color variants:
+
+- **Mohawk** (m/f) -  Black · Brown / Brunette; female only: Red
+  ![](https://github.com/cryptopunksnotdead/punks.sandbox/raw/master/punksdata-assets/i/015-mohawk_dark.png)
+  ![](https://github.com/cryptopunksnotdead/punks.sandbox/raw/master/punksdata-assets/i/074-mohawk.png),
+  ![](https://github.com/cryptopunksnotdead/punks.sandbox/raw/master/punksdata-assets/i/130-mohawk_dark.png)
+  ![](https://github.com/cryptopunksnotdead/punks.sandbox/raw/master/punksdata-assets/i/123-mohawk.png)
+  ![](https://github.com/cryptopunksnotdead/punks.sandbox/raw/master/punksdata-assets/i/092-red_mohawk.png)
+- **Wild** (f)    -
+  ![](https://github.com/cryptopunksnotdead/punks.sandbox/raw/master/punksdata-assets/i/096-wild_hair.png)
+  ![](https://github.com/cryptopunksnotdead/punks.sandbox/raw/master/punksdata-assets/i/083-wild_blonde.png)
+  ![](https://github.com/cryptopunksnotdead/punks.sandbox/raw/master/punksdata-assets/i/086-wild_white_hair.png)   - close engough or different?
+  Black · Blonde ·  White
+- **Straight [Long]** (f)     -
+  ![](https://github.com/cryptopunksnotdead/punks.sandbox/raw/master/punksdata-assets/i/079-straight_hair_dark.png)
+  ![](https://github.com/cryptopunksnotdead/punks.sandbox/raw/master/punksdata-assets/i/112-straight_hair_blonde.png)
+  ![](https://github.com/cryptopunksnotdead/punks.sandbox/raw/master/punksdata-assets/i/127-straight_hair.png)
+  Black · Blonde · Dark Brown   - close engough or different?
+- **Bob / Page** (f)  -
+  ![](https://github.com/cryptopunksnotdead/punks.sandbox/raw/master/punksdata-assets/i/099-dark_hair.png)
+  ![](https://github.com/cryptopunksnotdead/punks.sandbox/raw/master/punksdata-assets/i/122-blonde_bob.png)
+  Black · Blonde     - close enough or  different? e.g. Black Page? Blonde Bob?
 
 
 
