@@ -1,5 +1,5 @@
 
-Note: See [**/punks.spritesheet**](https://github.com/openpunkart/punks.spritesheet) -
+Note: See [**/punkart.spritesheet**](https://github.com/openpunkart/punkart.spritesheet) -
 The Unicode-Like Universal Code Page for All Punk Archetypes & Attributes - if you are looking for a free to download single all-in-one sprite sheet (image).
 
 ---
