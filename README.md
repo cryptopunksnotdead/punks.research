@@ -1,22 +1,22 @@
 
-# Punk Sprite Sheet - A Unicode-Like Universal Code Page for All Punk (Pixel) Head / Character Archetypes & Attributes in 24×24px in a Free to Download Single Sprite Sheet Image
+Note: See [**/punks.spritesheet**](https://github.com/openpunkart/punks.spritesheet) -
+The Unicode-Like Universal Code Page for All Punk Archetypes & Attributes - if you are looking for a free to download single all-in-one sprite sheet (image).
+
+---
 
 
 
-Version 2022
-
-![](spritesheet.png)
-
-[**Free Image Download - spritesheet.png**](https://github.com/cryptopunksnotdead/punks.spritesheet/raw/master/spritesheet.png) (~65k)
+# Punk (Pixel Art) Research
 
 
+[The Skin Tones / Colors of Punk & Punkette Pixel Characters / Heads](skin-tones)
 
-## Meta Data Records - Id, Name, Type & More
 
-For the punk "sprite" meta data records (id, name, type, etc.)
-of the sprite sheet
-in the comma-separated values (csv) format, see
-[**spritesheet.csv**](spritesheet.csv).
+[The Hair Colors of Punk & Punkette Pixel Characters / Heads](hair-colors)
+
+
+
+[Universal (Common / Shared) Attribute Categories for Punk (Pixel) Characters / Heads](categories)
 
 
 
@@ -24,8 +24,6 @@ in the comma-separated values (csv) format, see
 
 ## Questions? Comments?
 
-Post them on the [D.I.Y. Punk (Pixel) Art reddit](https://old.reddit.com/r/DIYPunkArt). Thanks.
-
-
+Post them over at the [Help & Support](https://github.com/geraldb/help) page. Thanks.
 
 
